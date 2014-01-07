@@ -27,7 +27,12 @@ Update the ezScrum_Ubuntu from my github.
 
 ## Documents
 
-- [ezScrum - Browse /Release/v1.7.1/doc at SourceForge.net](http://sourceforge.net/projects/ezscrum/files/Release/v1.7.1/doc/)
+[ezScrum v1.7.1/doc | SourceForge.net](http://sourceforge.net/projects/ezscrum/files/Release/v1.7.1/doc/)
+
+ 1. User Guide: [[Chinese]](http://sourceforge.net/projects/ezscrum/files/Release/v1.7.1/doc/ezScrum_User_Guide.pdf/download), [[English]](http://sourceforge.net/projects/ezscrum/files/Release/v1.7.1/doc/ezScrum_User_Guide-eng.pdf/download)
+ 2. System Install: [[Chinese]](http://sourceforge.net/projects/ezscrum/files/Release/v1.7.1/doc/ezScrum_System_Install.pdf/download), [[English]](http://sourceforge.net/projects/ezscrum/files/Release/v1.7.1/doc/ezScrum_System_Install-eng.pdf/download)
+ 3. System Install Q&A: [[Chinese]](http://sourceforge.net/projects/ezscrum/files/Release/v1.7.1/doc/ezScrum_System_Install_QA-cht.pdf/download), [English](http://sourceforge.net/projects/ezscrum/files/Release/v1.7.1/doc/ezScrum_System_Install_QA-eng.pdf/download)
+ 4. Plugin Thesis: [2012-ezscrum-plugin-thesis.pdf](http://sourceforge.net/projects/ezscrum/files/Release/v1.7.1/doc/2012-ezscrum-plugin-thesis.pdf/download)
 
 ## Change Logs
 
