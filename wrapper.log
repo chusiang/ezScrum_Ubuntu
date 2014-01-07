@@ -1,0 +1,80 @@
+FATAL  | wrapper  | 2013/11/26 21:16:07 | Unable to open configuration file, Detected Linux:: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:16:07 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:16:07 | Unable to open configuration file,  Installing the $APP_LONG_NAME daemon..: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:16:07 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:16:15 | Unable to open configuration file, Starting $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:16:15 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:16:16 | Unable to open configuration file, Waiting for $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:16:16 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:16:19 | Unable to open configuration file, $APP_LONG_NAME started.: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:16:19 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:23:18 | Unable to open configuration file, Stopping $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:23:18 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:23:24 | Unable to open configuration file, Stopped $APP_LONG_NAME.: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:23:24 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:23:24 | Unable to open configuration file, Starting $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:23:24 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:23:24 | Unable to open configuration file, Waiting for $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:23:24 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:23:31 | Unable to open configuration file, $APP_LONG_NAME started.: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:23:31 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:34:03 | Unable to open configuration file, Stopping $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:34:03 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:34:12 | Unable to open configuration file, Stopping $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:34:12 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:34:13 | Unable to open configuration file, Stopped $APP_LONG_NAME.: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:34:13 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:34:14 | Unable to open configuration file, Stopping $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:34:14 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:34:14 | Unable to open configuration file, $APP_LONG_NAME was not running.: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:34:14 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:34:14 | Unable to open configuration file, Detected Linux:: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:34:14 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2013/11/26 21:34:14 | Unable to open configuration file,  Removing $APP_LONG_NAME daemon...: No such file or directory
+FATAL  | wrapper  | 2013/11/26 21:34:14 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:27:59 | Unable to open configuration file, Usage: : No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:27:59 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:07 | Unable to open configuration file, Detected Linux:: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:07 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:07 | Unable to open configuration file,  Installing the $APP_LONG_NAME daemon..: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:07 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:16 | Unable to open configuration file, Stopping $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:16 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:16 | Unable to open configuration file, $APP_LONG_NAME was not running.: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:16 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:16 | Unable to open configuration file, Detected Linux:: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:16 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:16 | Unable to open configuration file,  The $APP_LONG_NAME daemon is not currently installed.: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:16 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:18 | Unable to open configuration file, Detected Linux:: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:18 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:18 | Unable to open configuration file,  Installing the $APP_LONG_NAME daemon..: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:18 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:38 | Unable to open configuration file, Detected Linux:: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:38 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:38 | Unable to open configuration file,  Installing the $APP_LONG_NAME daemon..: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:38 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:52 | Unable to open configuration file, Starting $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:52 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:53 | Unable to open configuration file, Waiting for $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:53 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:28:57 | Unable to open configuration file, $APP_LONG_NAME started.: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:28:57 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:35:21 | Unable to open configuration file, Detected Linux:: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:35:21 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:35:21 | Unable to open configuration file,  The $APP_LONG_NAME daemon is already installed.: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:35:21 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:35:21 | Unable to open configuration file, Starting $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:35:21 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 06:35:21 | Unable to open configuration file, $APP_LONG_NAME is already running.: No such file or directory
+FATAL  | wrapper  | 2014/01/08 06:35:21 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 07:07:04 | Unable to open configuration file, Stopping $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2014/01/08 07:07:04 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 07:07:08 | Unable to open configuration file, Stopped $APP_LONG_NAME.: No such file or directory
+FATAL  | wrapper  | 2014/01/08 07:07:08 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 07:07:18 | Unable to open configuration file, Starting $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2014/01/08 07:07:18 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 07:07:18 | Unable to open configuration file, Waiting for $APP_LONG_NAME...: No such file or directory
+FATAL  | wrapper  | 2014/01/08 07:07:18 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu
+FATAL  | wrapper  | 2014/01/08 07:07:21 | Unable to open configuration file, $APP_LONG_NAME started.: No such file or directory
+FATAL  | wrapper  | 2014/01/08 07:07:21 | Current working directory is: /home/jonny/archive/ezScrum_Ubuntu

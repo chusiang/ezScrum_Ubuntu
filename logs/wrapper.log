@@ -1,0 +1,424 @@
+STATUS | wrapper  | 2013/11/26 21:16:15 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/11/26 21:16:15 | Java Service Wrapper Community Edition 32-bit 3.5.3
+STATUS | wrapper  | 2013/11/26 21:16:15 |   Copyright (C) 1999-2010 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/11/26 21:16:15 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/11/26 21:16:15 | 
+STATUS | wrapper  | 2013/11/26 21:16:16 | Launching a JVM...
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager: WARNING - The Wrapper jar file currently in use is version "3.3.9"
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:           while the version of the Wrapper which launched this JVM is 
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:           "3.5.3".
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:           The Wrapper may appear to work correctly but some features may
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:           not function correctly.  This configuration has not been tested
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:           and is not supported.
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager: 
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager: 
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager: WARNING - Unable to load the Wrapper's native library because none of the
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:           following files:
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:             libwrapper-linux-x86-64.so
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:             libwrapper.so
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:           could be located on the following java.library.path:
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:             /home/jonny/archive/ezScrum_Ubuntu/./lib
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:           Please see the documentation for the wrapper.java.library.path
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:           configuration property.
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 1    | 2013/11/26 21:16:17 | WrapperManager: 
+INFO   | jvm 1    | 2013/11/26 21:16:18 | 2013-11-26 21:16:18.044:INFO::Logging to STDERR via org.mortbay.log.StdErrLog
+INFO   | jvm 1    | 2013/11/26 21:16:18 | 2013-11-26 21:16:18.424:INFO::jetty-6.1.22
+INFO   | jvm 1    | 2013/11/26 21:16:27 | Nov 26, 2013 9:16:27 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:16:27 | INFO: *************Plugin Initail***********
+INFO   | jvm 1    | 2013/11/26 21:16:27 | Nov 26, 2013 9:16:27 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:16:27 | INFO: ezScrum Version: ezScrum v1.7.1
+INFO   | jvm 1    | 2013/11/26 21:16:27 | Nov 26, 2013 9:16:27 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:16:27 | INFO: ezScrum Update Server: http://127.0.0.1/ezScrumUpdateInfo
+INFO   | jvm 1    | 2013/11/26 21:16:27 | Nov 26, 2013 9:16:27 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:16:27 | INFO: ezScrum Update Download Path: /root/.ezScrum/updates
+INFO   | jvm 1    | 2013/11/26 21:16:27 | Nov 26, 2013 9:16:27 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:16:27 | INFO: ezScrum Start Time: Tue Nov 26 21:16:27 CST 2013
+INFO   | jvm 1    | 2013/11/26 21:16:28 | Nov 26, 2013 9:16:27 PM ntut.csie.jcis.resource.core.internal.Workspace loadRoot
+INFO   | jvm 1    | 2013/11/26 21:16:28 | INFO: WorkspaceRoot Path:/home/jonny/archive/ezScrum_Ubuntu/WebContent/Workspace
+INFO   | jvm 1    | 2013/11/26 21:16:29 | Nov 26, 2013 9:16:29 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:16:29 | INFO: *************Plugin Initail END***********
+INFO   | jvm 1    | 2013/11/26 21:16:29 | Nov 26, 2013 9:16:29 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO   | jvm 1    | 2013/11/26 21:16:29 | INFO: Loading validation rules file from '/WEB-INF/validator-rules.xml'
+INFO   | jvm 1    | 2013/11/26 21:16:29 | Nov 26, 2013 9:16:29 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO   | jvm 1    | 2013/11/26 21:16:29 | INFO: Loading validation rules file from '/WEB-INF/validation.xml'
+INFO   | jvm 1    | 2013/11/26 21:16:29 | Nov 26, 2013 9:16:29 PM org.apache.struts.tiles.TilesPlugin initDefinitionsFactory
+INFO   | jvm 1    | 2013/11/26 21:16:29 | INFO: Tiles definition factory loaded for module ''.
+INFO   | jvm 1    | 2013/11/26 21:16:30 | Nov 26, 2013 9:16:30 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO   | jvm 1    | 2013/11/26 21:16:30 | INFO: Scanning for root resource and provider classes in the packages:
+INFO   | jvm 1    | 2013/11/26 21:16:30 |   ntut.csie.ezScrum.web.service.mobile.control.restful
+INFO   | jvm 1    | 2013/11/26 21:16:30 | Nov 26, 2013 9:16:30 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO   | jvm 1    | 2013/11/26 21:16:30 | INFO: Root resource classes found:
+INFO   | jvm 1    | 2013/11/26 21:16:30 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.BurndownChartWebServiceController
+INFO   | jvm 1    | 2013/11/26 21:16:30 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.SprintBacklogWebServiceController
+INFO   | jvm 1    | 2013/11/26 21:16:30 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.ProjectWebServiceController
+INFO   | jvm 1    | 2013/11/26 21:16:30 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.ProductBacklogWebServiceController
+INFO   | jvm 1    | 2013/11/26 21:16:30 | Nov 26, 2013 9:16:30 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO   | jvm 1    | 2013/11/26 21:16:30 | INFO: No provider classes found.
+INFO   | jvm 1    | 2013/11/26 21:16:30 | Nov 26, 2013 9:16:30 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO   | jvm 1    | 2013/11/26 21:16:30 | INFO: Initiating Jersey application, version 'Jersey: 1.12 02/15/2012 04:51 PM'
+INFO   | jvm 1    | 2013/11/26 21:16:34 | Nov 26, 2013 9:16:33 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:16:34 | INFO: Deploying module: smtpfault - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/smtpfault.mar
+INFO   | jvm 1    | 2013/11/26 21:16:34 | Nov 26, 2013 9:16:34 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:16:34 | INFO: Deploying module: metadataExchange-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/mex-1.41.mar
+INFO   | jvm 1    | 2013/11/26 21:16:34 | Nov 26, 2013 9:16:34 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:16:34 | INFO: Deploying module: script-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/scripting-1.41.mar
+INFO   | jvm 1    | 2013/11/26 21:16:34 | Nov 26, 2013 9:16:34 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:16:34 | INFO: Deploying module: ping-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/ping-1.41.mar
+INFO   | jvm 1    | 2013/11/26 21:16:34 | Nov 26, 2013 9:16:34 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:16:34 | INFO: Deploying module: addressing-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/addressing-1.41.mar
+INFO   | jvm 1    | 2013/11/26 21:16:34 | Nov 26, 2013 9:16:34 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:16:34 | INFO: Deploying module: soapmonitor-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/soapmonitor-1.41.mar
+INFO   | jvm 1    | 2013/11/26 21:16:34 | Nov 26, 2013 9:16:34 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:16:34 | INFO: Deploying module: metadataExchange - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/lib/mex-1.4.1.jar
+INFO   | jvm 1    | 2013/11/26 21:16:37 | Nov 26, 2013 9:16:36 PM org.apache.axis2.deployment.ServiceDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:16:37 | INFO: Deploying Web service: version.aar - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/services/version.aar
+INFO   | jvm 1    | 2013/11/26 21:16:37 | Nov 26, 2013 9:16:36 PM org.apache.axis2.deployment.ServiceDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:16:37 | INFO: Deploying Web service: ezScrumWebServiceController - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/services/ezScrumWebServiceController/
+INFO   | jvm 1    | 2013/11/26 21:16:37 | 2013-11-26 21:16:37.047:INFO::Started SelectChannelConnector@localhost:8080
+STATUS | wrapper  | 2013/11/26 21:23:19 | TERM trapped.  Shutting down.
+INFO   | jvm 1    | 2013/11/26 21:23:20 | 2013-11-26 21:23:20.276:INFO::Shutdown hook executing
+INFO   | jvm 1    | 2013/11/26 21:23:20 | 2013-11-26 21:23:20.276:INFO::Graceful shutdown SelectChannelConnector@localhost:8080
+INFO   | jvm 1    | 2013/11/26 21:23:20 | 2013-11-26 21:23:20.745:INFO::Graceful shutdown org.mortbay.jetty.webapp.WebAppContext@6d87c12a{/ezScrum,WebContent}
+INFO   | jvm 1    | 2013/11/26 21:23:22 | 2013-11-26 21:23:22.018:INFO::Shutdown hook complete
+INFO   | jvm 1    | 2013/11/26 21:23:23 | Exception in thread "Shutdown" java.util.ConcurrentModificationException
+INFO   | jvm 1    | 2013/11/26 21:23:23 | 	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:782)
+INFO   | jvm 1    | 2013/11/26 21:23:23 | 	at java.util.ArrayList$Itr.next(ArrayList.java:754)
+INFO   | jvm 1    | 2013/11/26 21:23:23 | 	at org.mortbay.jetty.Server$ShutdownHookThread.run(Server.java:556)
+STATUS | wrapper  | 2013/11/26 21:23:23 | <-- Wrapper Stopped
+STATUS | wrapper  | 2013/11/26 21:23:24 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/11/26 21:23:24 | Java Service Wrapper Community Edition 32-bit 3.5.3
+STATUS | wrapper  | 2013/11/26 21:23:24 |   Copyright (C) 1999-2010 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/11/26 21:23:24 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/11/26 21:23:24 | 
+STATUS | wrapper  | 2013/11/26 21:23:24 | Launching a JVM...
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager: WARNING - The Wrapper jar file currently in use is version "3.3.9"
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:           while the version of the Wrapper which launched this JVM is 
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:           "3.5.3".
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:           The Wrapper may appear to work correctly but some features may
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:           not function correctly.  This configuration has not been tested
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:           and is not supported.
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager: 
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager: 
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager: WARNING - Unable to load the Wrapper's native library because none of the
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:           following files:
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:             libwrapper-linux-x86-64.so
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:             libwrapper.so
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:           could be located on the following java.library.path:
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:             /home/jonny/archive/ezScrum_Ubuntu/./lib
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:           Please see the documentation for the wrapper.java.library.path
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:           configuration property.
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 1    | 2013/11/26 21:23:28 | WrapperManager: 
+INFO   | jvm 1    | 2013/11/26 21:23:30 | 2013-11-26 21:23:30.455:INFO::Logging to STDERR via org.mortbay.log.StdErrLog
+INFO   | jvm 1    | 2013/11/26 21:23:30 | 2013-11-26 21:23:30.939:INFO::jetty-6.1.22
+INFO   | jvm 1    | 2013/11/26 21:23:40 | Nov 26, 2013 9:23:40 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:23:40 | INFO: *************Plugin Initail***********
+INFO   | jvm 1    | 2013/11/26 21:23:40 | Nov 26, 2013 9:23:40 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:23:40 | INFO: ezScrum Version: ezScrum v1.7.1
+INFO   | jvm 1    | 2013/11/26 21:23:40 | Nov 26, 2013 9:23:40 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:23:40 | INFO: ezScrum Update Server: http://127.0.0.1/ezScrumUpdateInfo
+INFO   | jvm 1    | 2013/11/26 21:23:40 | Nov 26, 2013 9:23:40 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:23:40 | INFO: ezScrum Update Download Path: /root/.ezScrum/updates
+INFO   | jvm 1    | 2013/11/26 21:23:40 | Nov 26, 2013 9:23:40 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:23:40 | INFO: ezScrum Start Time: Tue Nov 26 21:23:40 CST 2013
+INFO   | jvm 1    | 2013/11/26 21:23:40 | Nov 26, 2013 9:23:40 PM ntut.csie.jcis.resource.core.internal.Workspace loadRoot
+INFO   | jvm 1    | 2013/11/26 21:23:40 | INFO: WorkspaceRoot Path:/home/jonny/archive/ezScrum_Ubuntu/WebContent/Workspace
+INFO   | jvm 1    | 2013/11/26 21:23:41 | Nov 26, 2013 9:23:41 PM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2013/11/26 21:23:41 | INFO: *************Plugin Initail END***********
+INFO   | jvm 1    | 2013/11/26 21:23:41 | Nov 26, 2013 9:23:41 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO   | jvm 1    | 2013/11/26 21:23:41 | INFO: Loading validation rules file from '/WEB-INF/validator-rules.xml'
+INFO   | jvm 1    | 2013/11/26 21:23:41 | Nov 26, 2013 9:23:41 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO   | jvm 1    | 2013/11/26 21:23:41 | INFO: Loading validation rules file from '/WEB-INF/validation.xml'
+INFO   | jvm 1    | 2013/11/26 21:23:42 | Nov 26, 2013 9:23:42 PM org.apache.struts.tiles.TilesPlugin initDefinitionsFactory
+INFO   | jvm 1    | 2013/11/26 21:23:42 | INFO: Tiles definition factory loaded for module ''.
+INFO   | jvm 1    | 2013/11/26 21:23:43 | Nov 26, 2013 9:23:43 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO   | jvm 1    | 2013/11/26 21:23:43 | INFO: Scanning for root resource and provider classes in the packages:
+INFO   | jvm 1    | 2013/11/26 21:23:43 |   ntut.csie.ezScrum.web.service.mobile.control.restful
+INFO   | jvm 1    | 2013/11/26 21:23:43 | Nov 26, 2013 9:23:43 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO   | jvm 1    | 2013/11/26 21:23:43 | INFO: Root resource classes found:
+INFO   | jvm 1    | 2013/11/26 21:23:43 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.SprintBacklogWebServiceController
+INFO   | jvm 1    | 2013/11/26 21:23:43 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.BurndownChartWebServiceController
+INFO   | jvm 1    | 2013/11/26 21:23:43 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.ProjectWebServiceController
+INFO   | jvm 1    | 2013/11/26 21:23:43 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.ProductBacklogWebServiceController
+INFO   | jvm 1    | 2013/11/26 21:23:43 | Nov 26, 2013 9:23:43 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO   | jvm 1    | 2013/11/26 21:23:43 | INFO: No provider classes found.
+INFO   | jvm 1    | 2013/11/26 21:23:43 | Nov 26, 2013 9:23:43 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO   | jvm 1    | 2013/11/26 21:23:43 | INFO: Initiating Jersey application, version 'Jersey: 1.12 02/15/2012 04:51 PM'
+INFO   | jvm 1    | 2013/11/26 21:23:47 | Nov 26, 2013 9:23:47 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:23:47 | INFO: Deploying module: smtpfault - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/smtpfault.mar
+INFO   | jvm 1    | 2013/11/26 21:23:47 | Nov 26, 2013 9:23:47 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:23:47 | INFO: Deploying module: metadataExchange-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/mex-1.41.mar
+INFO   | jvm 1    | 2013/11/26 21:23:47 | Nov 26, 2013 9:23:47 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:23:47 | INFO: Deploying module: script-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/scripting-1.41.mar
+INFO   | jvm 1    | 2013/11/26 21:23:47 | Nov 26, 2013 9:23:47 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:23:47 | INFO: Deploying module: ping-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/ping-1.41.mar
+INFO   | jvm 1    | 2013/11/26 21:23:47 | Nov 26, 2013 9:23:47 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:23:47 | INFO: Deploying module: addressing-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/addressing-1.41.mar
+INFO   | jvm 1    | 2013/11/26 21:23:47 | Nov 26, 2013 9:23:47 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:23:47 | INFO: Deploying module: soapmonitor-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/soapmonitor-1.41.mar
+INFO   | jvm 1    | 2013/11/26 21:23:47 | Nov 26, 2013 9:23:47 PM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:23:47 | INFO: Deploying module: metadataExchange - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/lib/mex-1.4.1.jar
+INFO   | jvm 1    | 2013/11/26 21:23:49 | Nov 26, 2013 9:23:49 PM org.apache.axis2.deployment.ServiceDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:23:49 | INFO: Deploying Web service: version.aar - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/services/version.aar
+INFO   | jvm 1    | 2013/11/26 21:23:49 | Nov 26, 2013 9:23:49 PM org.apache.axis2.deployment.ServiceDeployer deploy
+INFO   | jvm 1    | 2013/11/26 21:23:49 | INFO: Deploying Web service: ezScrumWebServiceController - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/services/ezScrumWebServiceController/
+INFO   | jvm 1    | 2013/11/26 21:23:50 | 2013-11-26 21:23:50.027:INFO::Started SelectChannelConnector@localhost:8080
+STATUS | wrapper  | 2013/11/26 21:34:03 | TERM trapped.  Shutting down.
+INFO   | jvm 1    | 2013/11/26 21:34:04 | 2013-11-26 21:34:04.029:INFO::Shutdown hook executing
+INFO   | jvm 1    | 2013/11/26 21:34:04 | 2013-11-26 21:34:04.029:INFO::Graceful shutdown SelectChannelConnector@localhost:8080
+INFO   | jvm 1    | 2013/11/26 21:34:04 | 2013-11-26 21:34:04.121:INFO::Graceful shutdown org.mortbay.jetty.webapp.WebAppContext@236954e1{/ezScrum,WebContent}
+STATUS | wrapper  | 2013/11/26 21:34:12 | TERM trapped.  Forcing immediate shutdown.
+ERROR  | wrapper  | 2013/11/26 21:34:12 | JVM did not exit on request, terminated
+STATUS | wrapper  | 2013/11/26 21:34:12 | JVM received a signal SIGKILL (9).
+STATUS | wrapper  | 2013/11/26 21:34:12 | <-- Wrapper Stopped
+STATUS | wrapper  | 2014/01/08 06:28:53 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2014/01/08 06:28:53 | Java Service Wrapper Community Edition 32-bit 3.5.3
+STATUS | wrapper  | 2014/01/08 06:28:53 |   Copyright (C) 1999-2010 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2014/01/08 06:28:53 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2014/01/08 06:28:53 | 
+STATUS | wrapper  | 2014/01/08 06:28:53 | Launching a JVM...
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager: WARNING - The Wrapper jar file currently in use is version "3.3.9"
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:           while the version of the Wrapper which launched this JVM is 
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:           "3.5.3".
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:           The Wrapper may appear to work correctly but some features may
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:           not function correctly.  This configuration has not been tested
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:           and is not supported.
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager: 
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager: 
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager: WARNING - Unable to load the Wrapper's native library because none of the
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:           following files:
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:             libwrapper-linux-x86-64.so
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:             libwrapper.so
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:           could be located on the following java.library.path:
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:             /home/jonny/archive/ezScrum_Ubuntu/./lib
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:           Please see the documentation for the wrapper.java.library.path
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:           configuration property.
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 1    | 2014/01/08 06:28:55 | WrapperManager: 
+INFO   | jvm 1    | 2014/01/08 06:28:55 | 2014-01-08 06:28:55.886:INFO::Logging to STDERR via org.mortbay.log.StdErrLog
+INFO   | jvm 1    | 2014/01/08 06:28:56 | 2014-01-08 06:28:56.112:INFO::jetty-6.1.22
+INFO   | jvm 1    | 2014/01/08 06:29:00 | Jan 8, 2014 6:29:00 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 06:29:00 | INFO: *************Plugin Initail***********
+INFO   | jvm 1    | 2014/01/08 06:29:00 | Jan 8, 2014 6:29:00 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 06:29:00 | INFO: ezScrum Version: ezScrum v1.7.1
+INFO   | jvm 1    | 2014/01/08 06:29:00 | Jan 8, 2014 6:29:00 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 06:29:00 | INFO: ezScrum Update Server: http://127.0.0.1/ezScrumUpdateInfo
+INFO   | jvm 1    | 2014/01/08 06:29:00 | Jan 8, 2014 6:29:00 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 06:29:00 | INFO: ezScrum Update Download Path: /root/.ezScrum/updates
+INFO   | jvm 1    | 2014/01/08 06:29:00 | Jan 8, 2014 6:29:00 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 06:29:00 | INFO: ezScrum Start Time: Wed Jan 08 06:29:00 CST 2014
+INFO   | jvm 1    | 2014/01/08 06:29:00 | Jan 8, 2014 6:29:00 AM ntut.csie.jcis.resource.core.internal.Workspace loadRoot
+INFO   | jvm 1    | 2014/01/08 06:29:00 | INFO: WorkspaceRoot Path:/home/jonny/archive/ezScrum_Ubuntu/WebContent/Workspace
+INFO   | jvm 1    | 2014/01/08 06:29:02 | Jan 8, 2014 6:29:01 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 06:29:02 | INFO: *************Plugin Initail END***********
+INFO   | jvm 1    | 2014/01/08 06:29:02 | Jan 8, 2014 6:29:01 AM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO   | jvm 1    | 2014/01/08 06:29:02 | INFO: Loading validation rules file from '/WEB-INF/validator-rules.xml'
+INFO   | jvm 1    | 2014/01/08 06:29:02 | Jan 8, 2014 6:29:01 AM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO   | jvm 1    | 2014/01/08 06:29:02 | INFO: Loading validation rules file from '/WEB-INF/validation.xml'
+INFO   | jvm 1    | 2014/01/08 06:29:02 | Jan 8, 2014 6:29:02 AM org.apache.struts.tiles.TilesPlugin initDefinitionsFactory
+INFO   | jvm 1    | 2014/01/08 06:29:02 | INFO: Tiles definition factory loaded for module ''.
+INFO   | jvm 1    | 2014/01/08 06:29:02 | Jan 8, 2014 6:29:02 AM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO   | jvm 1    | 2014/01/08 06:29:02 | INFO: Scanning for root resource and provider classes in the packages:
+INFO   | jvm 1    | 2014/01/08 06:29:02 |   ntut.csie.ezScrum.web.service.mobile.control.restful
+INFO   | jvm 1    | 2014/01/08 06:29:02 | Jan 8, 2014 6:29:02 AM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO   | jvm 1    | 2014/01/08 06:29:02 | INFO: Root resource classes found:
+INFO   | jvm 1    | 2014/01/08 06:29:02 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.SprintBacklogWebServiceController
+INFO   | jvm 1    | 2014/01/08 06:29:02 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.ProjectWebServiceController
+INFO   | jvm 1    | 2014/01/08 06:29:02 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.BurndownChartWebServiceController
+INFO   | jvm 1    | 2014/01/08 06:29:02 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.ProductBacklogWebServiceController
+INFO   | jvm 1    | 2014/01/08 06:29:02 | Jan 8, 2014 6:29:02 AM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO   | jvm 1    | 2014/01/08 06:29:02 | INFO: No provider classes found.
+INFO   | jvm 1    | 2014/01/08 06:29:03 | Jan 8, 2014 6:29:03 AM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO   | jvm 1    | 2014/01/08 06:29:03 | INFO: Initiating Jersey application, version 'Jersey: 1.12 02/15/2012 04:51 PM'
+INFO   | jvm 1    | 2014/01/08 06:29:06 | Jan 8, 2014 6:29:06 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 06:29:06 | INFO: Deploying module: smtpfault - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/smtpfault.mar
+INFO   | jvm 1    | 2014/01/08 06:29:06 | Jan 8, 2014 6:29:06 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 06:29:06 | INFO: Deploying module: metadataExchange-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/mex-1.41.mar
+INFO   | jvm 1    | 2014/01/08 06:29:06 | Jan 8, 2014 6:29:06 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 06:29:06 | INFO: Deploying module: script-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/scripting-1.41.mar
+INFO   | jvm 1    | 2014/01/08 06:29:06 | Jan 8, 2014 6:29:06 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 06:29:06 | INFO: Deploying module: ping-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/ping-1.41.mar
+INFO   | jvm 1    | 2014/01/08 06:29:07 | Jan 8, 2014 6:29:06 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 06:29:07 | INFO: Deploying module: addressing-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/addressing-1.41.mar
+INFO   | jvm 1    | 2014/01/08 06:29:07 | Jan 8, 2014 6:29:06 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 06:29:07 | INFO: Deploying module: soapmonitor-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/soapmonitor-1.41.mar
+INFO   | jvm 1    | 2014/01/08 06:29:07 | Jan 8, 2014 6:29:07 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 06:29:07 | INFO: Deploying module: metadataExchange - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/lib/mex-1.4.1.jar
+INFO   | jvm 1    | 2014/01/08 06:29:15 | Jan 8, 2014 6:29:15 AM org.apache.axis2.deployment.ServiceDeployer deploy
+INFO   | jvm 1    | 2014/01/08 06:29:15 | INFO: Deploying Web service: version.aar - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/services/version.aar
+INFO   | jvm 1    | 2014/01/08 06:29:15 | Jan 8, 2014 6:29:15 AM org.apache.axis2.deployment.ServiceDeployer deploy
+INFO   | jvm 1    | 2014/01/08 06:29:15 | INFO: Deploying Web service: ezScrumWebServiceController - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/services/ezScrumWebServiceController/
+INFO   | jvm 1    | 2014/01/08 06:29:15 | 2014-01-08 06:29:15.294:WARN::failed SelectChannelConnector@localhost:8080: java.net.BindException: Address already in use
+INFO   | jvm 1    | 2014/01/08 06:29:15 | 2014-01-08 06:29:15.294:WARN::failed Server@18c8ccb1: java.net.BindException: Address already in use
+INFO   | jvm 1    | 2014/01/08 06:29:15 | Jan 8, 2014 6:29:15 AM ntut.csie.ezScrum.web.JettyServer main
+INFO   | jvm 1    | 2014/01/08 06:29:15 | SEVERE: Address already in use
+STATUS | wrapper  | 2014/01/08 06:30:20 | JVM received a signal SIGKILL (9).
+STATUS | wrapper  | 2014/01/08 06:30:20 | JVM process is gone.
+ERROR  | wrapper  | 2014/01/08 06:30:20 | JVM exited unexpectedly.
+STATUS | wrapper  | 2014/01/08 06:30:25 | Launching a JVM...
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager: Initializing...
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager: WARNING - The Wrapper jar file currently in use is version "3.3.9"
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:           while the version of the Wrapper which launched this JVM is 
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:           "3.5.3".
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:           The Wrapper may appear to work correctly but some features may
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:           not function correctly.  This configuration has not been tested
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:           and is not supported.
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager: 
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager: 
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager: WARNING - Unable to load the Wrapper's native library because none of the
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:           following files:
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:             libwrapper-linux-x86-64.so
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:             libwrapper.so
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:           could be located on the following java.library.path:
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:             /home/jonny/archive/ezScrum_Ubuntu/./lib
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:           Please see the documentation for the wrapper.java.library.path
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:           configuration property.
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager: 
+INFO   | jvm 2    | 2014/01/08 06:30:25 | WrapperManager: Port 8080 already in use, using port 31000 instead.
+INFO   | jvm 2    | 2014/01/08 06:30:25 | 2014-01-08 06:30:25.507:INFO::Logging to STDERR via org.mortbay.log.StdErrLog
+INFO   | jvm 2    | 2014/01/08 06:30:25 | 2014-01-08 06:30:25.600:INFO::jetty-6.1.22
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: *************Plugin Initail***********
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: ezScrum Version: ezScrum v1.7.1
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: ezScrum Update Server: http://127.0.0.1/ezScrumUpdateInfo
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: ezScrum Update Download Path: /root/.ezScrum/updates
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: ezScrum Start Time: Wed Jan 08 06:30:28 CST 2014
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM ntut.csie.jcis.resource.core.internal.Workspace loadRoot
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: WorkspaceRoot Path:/home/jonny/archive/ezScrum_Ubuntu/WebContent/Workspace
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: *************Plugin Initail END***********
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: Loading validation rules file from '/WEB-INF/validator-rules.xml'
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: Loading validation rules file from '/WEB-INF/validation.xml'
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM org.apache.struts.tiles.TilesPlugin initDefinitionsFactory
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: Tiles definition factory loaded for module ''.
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: Scanning for root resource and provider classes in the packages:
+INFO   | jvm 2    | 2014/01/08 06:30:28 |   ntut.csie.ezScrum.web.service.mobile.control.restful
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: Root resource classes found:
+INFO   | jvm 2    | 2014/01/08 06:30:28 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.ProjectWebServiceController
+INFO   | jvm 2    | 2014/01/08 06:30:28 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.ProductBacklogWebServiceController
+INFO   | jvm 2    | 2014/01/08 06:30:28 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.SprintBacklogWebServiceController
+INFO   | jvm 2    | 2014/01/08 06:30:28 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.BurndownChartWebServiceController
+INFO   | jvm 2    | 2014/01/08 06:30:28 | Jan 8, 2014 6:30:28 AM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO   | jvm 2    | 2014/01/08 06:30:28 | INFO: No provider classes found.
+INFO   | jvm 2    | 2014/01/08 06:30:29 | Jan 8, 2014 6:30:29 AM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO   | jvm 2    | 2014/01/08 06:30:29 | INFO: Initiating Jersey application, version 'Jersey: 1.12 02/15/2012 04:51 PM'
+INFO   | jvm 2    | 2014/01/08 06:30:30 | Jan 8, 2014 6:30:30 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 2    | 2014/01/08 06:30:30 | INFO: Deploying module: smtpfault - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/smtpfault.mar
+INFO   | jvm 2    | 2014/01/08 06:30:30 | Jan 8, 2014 6:30:30 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 2    | 2014/01/08 06:30:30 | INFO: Deploying module: metadataExchange-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/mex-1.41.mar
+INFO   | jvm 2    | 2014/01/08 06:30:30 | Jan 8, 2014 6:30:30 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 2    | 2014/01/08 06:30:30 | INFO: Deploying module: script-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/scripting-1.41.mar
+INFO   | jvm 2    | 2014/01/08 06:30:30 | Jan 8, 2014 6:30:30 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 2    | 2014/01/08 06:30:30 | INFO: Deploying module: ping-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/ping-1.41.mar
+INFO   | jvm 2    | 2014/01/08 06:30:30 | Jan 8, 2014 6:30:30 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 2    | 2014/01/08 06:30:30 | INFO: Deploying module: addressing-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/addressing-1.41.mar
+INFO   | jvm 2    | 2014/01/08 06:30:30 | Jan 8, 2014 6:30:30 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 2    | 2014/01/08 06:30:30 | INFO: Deploying module: soapmonitor-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/soapmonitor-1.41.mar
+INFO   | jvm 2    | 2014/01/08 06:30:30 | Jan 8, 2014 6:30:30 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 2    | 2014/01/08 06:30:30 | INFO: Deploying module: metadataExchange - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/lib/mex-1.4.1.jar
+INFO   | jvm 2    | 2014/01/08 06:30:31 | Jan 8, 2014 6:30:31 AM org.apache.axis2.deployment.ServiceDeployer deploy
+INFO   | jvm 2    | 2014/01/08 06:30:31 | INFO: Deploying Web service: version.aar - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/services/version.aar
+INFO   | jvm 2    | 2014/01/08 06:30:31 | Jan 8, 2014 6:30:31 AM org.apache.axis2.deployment.ServiceDeployer deploy
+INFO   | jvm 2    | 2014/01/08 06:30:31 | INFO: Deploying Web service: ezScrumWebServiceController - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/services/ezScrumWebServiceController/
+INFO   | jvm 2    | 2014/01/08 06:30:31 | 2014-01-08 06:30:31.504:WARN::failed SelectChannelConnector@localhost:8080: java.net.BindException: Address already in use
+INFO   | jvm 2    | 2014/01/08 06:30:31 | 2014-01-08 06:30:31.504:WARN::failed Server@5edea768: java.net.BindException: Address already in use
+INFO   | jvm 2    | 2014/01/08 06:30:31 | Jan 8, 2014 6:30:31 AM ntut.csie.ezScrum.web.JettyServer main
+INFO   | jvm 2    | 2014/01/08 06:30:31 | SEVERE: Address already in use
+STATUS | wrapper  | 2014/01/08 07:07:04 | TERM trapped.  Shutting down.
+INFO   | jvm 2    | 2014/01/08 07:07:05 | 2014-01-08 07:07:05.488:INFO::Shutdown hook executing
+INFO   | jvm 2    | 2014/01/08 07:07:05 | 2014-01-08 07:07:05.488:INFO::Graceful shutdown SelectChannelConnector@localhost:8080
+INFO   | jvm 2    | 2014/01/08 07:07:05 | 2014-01-08 07:07:05.492:INFO::Graceful shutdown org.mortbay.jetty.webapp.WebAppContext@20657c7b{/ezScrum,WebContent}
+INFO   | jvm 2    | 2014/01/08 07:07:06 | 2014-01-08 07:07:06.508:INFO::Shutdown hook complete
+STATUS | wrapper  | 2014/01/08 07:07:07 | <-- Wrapper Stopped
+STATUS | wrapper  | 2014/01/08 07:07:18 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2014/01/08 07:07:18 | Java Service Wrapper Community Edition 32-bit 3.5.3
+STATUS | wrapper  | 2014/01/08 07:07:18 |   Copyright (C) 1999-2010 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2014/01/08 07:07:18 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2014/01/08 07:07:18 | 
+STATUS | wrapper  | 2014/01/08 07:07:18 | Launching a JVM...
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager: WARNING - The Wrapper jar file currently in use is version "3.3.9"
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:           while the version of the Wrapper which launched this JVM is 
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:           "3.5.3".
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:           The Wrapper may appear to work correctly but some features may
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:           not function correctly.  This configuration has not been tested
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:           and is not supported.
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager: 
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager: 
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager: WARNING - Unable to load the Wrapper's native library because none of the
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:           following files:
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:             libwrapper-linux-x86-64.so
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:             libwrapper.so
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:           could be located on the following java.library.path:
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:             /home/jonny/archive/ezScrum_Ubuntu/./lib
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:           Please see the documentation for the wrapper.java.library.path
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:           configuration property.
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager:           System signals will not be handled correctly.
+INFO   | jvm 1    | 2014/01/08 07:07:18 | WrapperManager: 
+INFO   | jvm 1    | 2014/01/08 07:07:18 | 2014-01-08 07:07:18.801:INFO::Logging to STDERR via org.mortbay.log.StdErrLog
+INFO   | jvm 1    | 2014/01/08 07:07:18 | 2014-01-08 07:07:18.897:INFO::jetty-6.1.22
+INFO   | jvm 1    | 2014/01/08 07:07:55 | Jan 8, 2014 7:07:55 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 07:07:55 | INFO: *************Plugin Initail***********
+INFO   | jvm 1    | 2014/01/08 07:07:55 | Jan 8, 2014 7:07:55 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 07:07:55 | INFO: ezScrum Version: ezScrum v1.7.1
+INFO   | jvm 1    | 2014/01/08 07:07:55 | Jan 8, 2014 7:07:55 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 07:07:55 | INFO: ezScrum Update Server: http://127.0.0.1/ezScrumUpdateInfo
+INFO   | jvm 1    | 2014/01/08 07:07:55 | Jan 8, 2014 7:07:55 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 07:07:55 | INFO: ezScrum Update Download Path: /root/.ezScrum/updates
+INFO   | jvm 1    | 2014/01/08 07:07:55 | Jan 8, 2014 7:07:55 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 07:07:55 | INFO: ezScrum Start Time: Wed Jan 08 07:07:55 CST 2014
+INFO   | jvm 1    | 2014/01/08 07:07:55 | Jan 8, 2014 7:07:55 AM ntut.csie.jcis.resource.core.internal.Workspace loadRoot
+INFO   | jvm 1    | 2014/01/08 07:07:55 | INFO: WorkspaceRoot Path:/home/jonny/archive/ezScrum_Ubuntu/WebContent/Workspace
+INFO   | jvm 1    | 2014/01/08 07:07:56 | Jan 8, 2014 7:07:55 AM ntut.csie.ezScrum.web.InitialPlugIn init
+INFO   | jvm 1    | 2014/01/08 07:07:56 | INFO: *************Plugin Initail END***********
+INFO   | jvm 1    | 2014/01/08 07:07:56 | Jan 8, 2014 7:07:55 AM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO   | jvm 1    | 2014/01/08 07:07:56 | INFO: Loading validation rules file from '/WEB-INF/validator-rules.xml'
+INFO   | jvm 1    | 2014/01/08 07:07:56 | Jan 8, 2014 7:07:55 AM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO   | jvm 1    | 2014/01/08 07:07:56 | INFO: Loading validation rules file from '/WEB-INF/validation.xml'
+INFO   | jvm 1    | 2014/01/08 07:07:56 | Jan 8, 2014 7:07:56 AM org.apache.struts.tiles.TilesPlugin initDefinitionsFactory
+INFO   | jvm 1    | 2014/01/08 07:07:56 | INFO: Tiles definition factory loaded for module ''.
+INFO   | jvm 1    | 2014/01/08 07:07:56 | Jan 8, 2014 7:07:56 AM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO   | jvm 1    | 2014/01/08 07:07:56 | INFO: Scanning for root resource and provider classes in the packages:
+INFO   | jvm 1    | 2014/01/08 07:07:56 |   ntut.csie.ezScrum.web.service.mobile.control.restful
+INFO   | jvm 1    | 2014/01/08 07:07:56 | Jan 8, 2014 7:07:56 AM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO   | jvm 1    | 2014/01/08 07:07:56 | INFO: Root resource classes found:
+INFO   | jvm 1    | 2014/01/08 07:07:56 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.ProductBacklogWebServiceController
+INFO   | jvm 1    | 2014/01/08 07:07:56 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.BurndownChartWebServiceController
+INFO   | jvm 1    | 2014/01/08 07:07:56 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.ProjectWebServiceController
+INFO   | jvm 1    | 2014/01/08 07:07:56 |   class ntut.csie.ezScrum.web.service.mobile.control.restful.SprintBacklogWebServiceController
+INFO   | jvm 1    | 2014/01/08 07:07:56 | Jan 8, 2014 7:07:56 AM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO   | jvm 1    | 2014/01/08 07:07:56 | INFO: No provider classes found.
+INFO   | jvm 1    | 2014/01/08 07:07:56 | Jan 8, 2014 7:07:56 AM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO   | jvm 1    | 2014/01/08 07:07:56 | INFO: Initiating Jersey application, version 'Jersey: 1.12 02/15/2012 04:51 PM'
+INFO   | jvm 1    | 2014/01/08 07:07:58 | Jan 8, 2014 7:07:58 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 07:07:58 | INFO: Deploying module: smtpfault - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/smtpfault.mar
+INFO   | jvm 1    | 2014/01/08 07:07:58 | Jan 8, 2014 7:07:58 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 07:07:58 | INFO: Deploying module: metadataExchange-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/mex-1.41.mar
+INFO   | jvm 1    | 2014/01/08 07:07:58 | Jan 8, 2014 7:07:58 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 07:07:58 | INFO: Deploying module: script-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/scripting-1.41.mar
+INFO   | jvm 1    | 2014/01/08 07:07:58 | Jan 8, 2014 7:07:58 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 07:07:58 | INFO: Deploying module: ping-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/ping-1.41.mar
+INFO   | jvm 1    | 2014/01/08 07:07:58 | Jan 8, 2014 7:07:58 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 07:07:58 | INFO: Deploying module: addressing-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/addressing-1.41.mar
+INFO   | jvm 1    | 2014/01/08 07:07:58 | Jan 8, 2014 7:07:58 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 07:07:58 | INFO: Deploying module: soapmonitor-1.41 - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/modules/soapmonitor-1.41.mar
+INFO   | jvm 1    | 2014/01/08 07:07:58 | Jan 8, 2014 7:07:58 AM org.apache.axis2.deployment.ModuleDeployer deploy
+INFO   | jvm 1    | 2014/01/08 07:07:58 | INFO: Deploying module: metadataExchange - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/lib/mex-1.4.1.jar
+INFO   | jvm 1    | 2014/01/08 07:07:58 | Jan 8, 2014 7:07:58 AM org.apache.axis2.deployment.ServiceDeployer deploy
+INFO   | jvm 1    | 2014/01/08 07:07:58 | INFO: Deploying Web service: version.aar - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/services/version.aar
+INFO   | jvm 1    | 2014/01/08 07:07:58 | Jan 8, 2014 7:07:58 AM org.apache.axis2.deployment.ServiceDeployer deploy
+INFO   | jvm 1    | 2014/01/08 07:07:58 | INFO: Deploying Web service: ezScrumWebServiceController - file:/home/jonny/archive/ezScrum_Ubuntu/WebContent/WEB-INF/services/ezScrumWebServiceController/
+INFO   | jvm 1    | 2014/01/08 07:07:59 | 2014-01-08 07:07:58.934:INFO::Started SelectChannelConnector@192.168.56.2:8080
