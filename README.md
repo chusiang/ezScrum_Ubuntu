@@ -25,3 +25,47 @@ Update the ezScrum_Ubuntu from my github.
 
     $ make update
 
+## Documents
+
+- [ezScrum - Browse /Release/v1.7.1/doc at SourceForge.net](http://sourceforge.net/projects/ezscrum/files/Release/v1.7.1/doc/)
+
+## Change Logs
+
+### v1.7.1 (2013-03-29 updated)
+
+#### Bug fixed
+
+1. Multiple users from different projects can now use ezScrum concurrently without causing an error. 
+2. Historical information has been removed in the "Add Account" form.
+
+### Changed
+
+1. The required fields are now marked with a red star.
+2. In the "Account Management" page
+
+ - Admin's default mail is "your_name@your_domain.com".
+ - The "Edit Information" and the "Change Password" buttons are added.
+ - The "Edit Account" button is removed.
+ 
+### Known bugs
+
+None
+
+### 修正
+
+1. 修正後，多個使用者同時操作不同專案時，不會有錯誤訊息產生。
+2. 修正後， Add Account 表單時不會顯示歷史資訊。 
+
+### 變更
+
+1. 在各表單必填欄位前方加上紅色星號以提示使用者。
+2. 在 Account Management 頁面
+
+ - Admin 的預設電子郵件地址改為 example@ezScrum.tw。
+ - 新增 Edit Information 和 Change Password 功能按鈕。
+ - 移除 Edit Account 功能按鈕。
+ 
+### 已知議題
+ 
+無
+
